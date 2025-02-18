@@ -1,0 +1,54 @@
+					<!DOCTYPE html>
+					<html lang="en">
+					<head>
+					    <meta charset="UTF-8">
+					    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+					    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+					    <title>Esports Hub</title>
+					    <link rel="stylesheet" href="styles.css">
+					</head>
+					<body>
+					
+					    <!-- Header Section -->
+					    <header>
+					        <div class="logo">
+					            <h1>Esports Hub</h1>
+					        </div>
+					        <nav>
+					            <ul>
+					                <li><a href="#home">Home</a></li>
+					                <li><a href="#tournaments">Tournaments</a></li>
+					                <li><a href="#teams">Teams</a></li>
+					                <li><a href="#news">News</a></li>
+					                <li><a href="#contact">Contact</a></li>
+					            </ul>
+					        </nav>
+					    </header>
+					
+					    <!-- Hero Section -->
+					    <section class="hero">
+					        <h2>Welcome to the Ultimate Esports Experience!</h2>
+					        <p>Stay updated with the latest events, teams, and news.</p>
+					    </section>
+					
+					    <!-- Latest News Section -->
+					    <section id="news">
+					        <div class="news-container">
+					            <article class="news-item">
+					                <h3>Upcoming Game - South Fayette High School </h3>
+					                <p>There is a new game coming up! 2/23, get ready!</p>
+					            </article>
+					            <article class="news-item">
+					                <h3>D3 Dragons won their game!</h3>
+					                <p>With a hard fought battle, D3 Warren Dragons Won their overwatch 2 game!</p>
+					            </article>
+					        </div>
+					    </section>
+					
+					    <!-- Footer Section -->
+					    <footer>
+					        <p>&copy; 2025 Esports Hub | All Rights Reserved</p>
+		    </footer>
+		
+		</body>
+		</html>
